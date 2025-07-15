@@ -20,7 +20,8 @@
     "Tomato_leaf blight": 17,
     "Tomato_leaf curl": 18,
     "Tomato_septoria leaf spot": 19,
-    "Tomato_verticulium wilt": 20
+    "Tomato_verticulium wilt": 20,
+    "Tomato_healthy": 21
   },
   "id_to_answer": {
     "0": "Cassava_bacterial blight",
@@ -43,6 +44,7 @@
     "17": "Tomato_leaf blight",
     "18": "Tomato_leaf curl",
     "19": "Tomato_septoria leaf spot",
-    "20": "Tomato_verticulium wilt"
+    "20": "Tomato_verticulium wilt",
+    "21": "Tomato_healthy"
   }
 }
