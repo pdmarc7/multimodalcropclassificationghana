@@ -6,12 +6,12 @@
     "Cassava_healthy": 3,
     "Cassava_mosaic": 4,
     "Cashew_anthracnose": 5,
-    "Cashew_gummosis": 6,
+    "Cashew_gumosis": 6,
     "Cashew_healthy": 7,
     "Cashew_leaf miner": 8,
     "Cashew_red rust": 9,
     "Maize_fall armyworm": 10,
-    "Maize_grasshopper": 11,
+    "Maize_grasshoper": 11,
     "Maize_healthy": 12,
     "Maize_leaf beetle": 13,
     "Maize_leaf blight": 14,
@@ -20,7 +20,7 @@
     "Tomato_leaf blight": 17,
     "Tomato_leaf curl": 18,
     "Tomato_septoria leaf spot": 19,
-    "Tomato_verticillium wilt": 20
+    "Tomato_verticulium wilt": 20
   },
   "id_to_answer": {
     "0": "Cassava_bacterial blight",
@@ -29,12 +29,12 @@
     "3": "Cassava_healthy",
     "4": "Cassava_mosaic",
     "5": "Cashew_anthracnose",
-    "6": "Cashew_gummosis",
+    "6": "Cashew_gumosis",
     "7": "Cashew_healthy",
     "8": "Cashew_leaf miner",
     "9": "Cashew_red rust",
     "10": "Maize_fall armyworm",
-    "11": "Maize_grasshopper",
+    "11": "Maize_grasshoper",
     "12": "Maize_healthy",
     "13": "Maize_leaf beetle",
     "14": "Maize_leaf blight",
@@ -43,6 +43,6 @@
     "17": "Tomato_leaf blight",
     "18": "Tomato_leaf curl",
     "19": "Tomato_septoria leaf spot",
-    "20": "Tomato_verticillium wilt"
+    "20": "Tomato_verticulium wilt"
   }
 }
