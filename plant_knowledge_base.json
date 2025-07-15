@@ -1,0 +1,480 @@
+{
+  "crops": {
+    "Maize": {
+      "diseases": [
+        {
+          "name_en": "fall armyworm",
+          "qa_pairs": [
+            {
+              "question": {
+                "en": "What is wrong with this plant?",
+                "twi": "Asukɔtweaa bɛn na ɛwɔ aburoo yi ho?",
+                "type": "diagnosis"
+              },
+              "answer": {
+                "en": [
+                  "Your maize plant is under attack from fall armyworms.",
+                  "You'll see ragged or elongated holes in the leaves, especially newer ones. Look for 'window-pane' damage where the green tissue is eaten but a clear membrane remains. You might also find their frass (excrement) which looks like sawdust, particularly in the whorl of the plant."
+                ],
+                "twi": [
+                  "Wo aburoo dua no wɔ akokɔsradeɛ mu mmɔnkɔtɔ (fall armyworm) ahyɛase."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name_en": "grasshoper",
+          "qa_pairs": [
+            {
+              "question": {
+                "en": "What is wrong with this plant?",
+                "twi": "Asukɔtweaa bɛn na ɛwɔ aburoo yi ho?",
+                "type": "diagnosis"
+              },
+              "answer": {
+                "en": [
+                  "Your maize plant is being eaten by grasshopers.",
+                  "Look for irregular holes in the leaves and chewed leaf edges. Sometimes, entire leaves or young seedlings might be eaten down to the ground. You may also see the grasshopers themselves on the plants."
+                ],
+                "twi": [
+                  "Amankani redi wo aburoo dua no."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name_en": "leaf beetle",
+          "qa_pairs": [
+            {
+              "question": {
+                "en": "What is wrong with this plant?",
+                "twi": "Asukɔtweaa bɛn na ɛwɔ aburoo yi ho?",
+                "type": "diagnosis"
+              },
+              "answer": {
+                "en": [
+                  "Your maize plant is suffering from damage caused by leaf beetles.",
+                  "You'll typically see small, round or elongated holes in the leaves, sometimes referred to as 'shot-hole' damage. In severe cases, the leaves might look 'skeletonized' where the beetles have eaten the soft tissue, leaving only the veins. Small beetles may be visible on the leaves."
+                ],
+                "twi": [
+                  "Wo aburoo dua no rehunu amane esiane ahaban kokoram nti."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name_en": "leaf blight",
+          "qa_pairs": [
+            {
+              "question": {
+                "en": "What is wrong with this plant?",
+                "twi": "Asukɔtweaa bɛn na ɛwɔ aburoo yi ho?",
+                "type": "diagnosis"
+              },
+              "answer": {
+                "en": [
+                  "Your maize plant is suffering from leaf blight.",
+                  "You'll typically see large, elongated lesions on the leaves. These often start at the tips or edges and spread, usually appearing gray-green to tan, sometimes with darker borders. They can merge to cover large sections of the leaf, leading to wilting and death of the leaf tissue."
+                ],
+                "twi": [
+                  "Wo aburoo dua no yare haban mu ɔyareɛ."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name_en": "leaf spot",
+          "qa_pairs": [
+            {
+              "question": {
+                "en": "What is wrong with this plant?",
+                "twi": "Asukɔtweaa bɛn na ɛwɔ aburoo yi ho?",
+                "type": "diagnosis"
+              },
+              "answer": {
+                "en": [
+                  "Your maize plant has leaf spot disease.",
+                  "Look for many small, circular to oval spots on the leaves. These spots are usually tan or brown with a reddish-brown border. They can sometimes merge into larger, blighted areas, especially when it's humid."
+                ],
+                "twi": [
+                  "Wo aburoo dua no yare haban apɔw yareɛ."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name_en": "streak virus",
+          "qa_pairs": [
+            {
+              "question": {
+                "en": "What is wrong with this plant?",
+                "twi": "Asukɔtweaa bɛn na ɛwɔ aburoo yi ho?",
+                "type": "diagnosis"
+              },
+              "answer": {
+                "en": [
+                  "Your maize plant is likely infected with Maize Streak Virus.",
+                  "You'll see fine, broken yellow or whitish streaks running along the veins of the leaves. These streaks can combine to form larger yellow patches. The symptoms are often more severe on younger leaves and plants, leading to stunted or deformed growth, and an overall yellowish appearance."
+                ],
+                "twi": [
+                  "Wo aburoo dua no betumi aba sɛ Maize Streak Virus aka no."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name_en": "healthy",
+          "qa_pairs": [
+            {
+              "question": {
+                "en": "What does a healthy maize plant look like?",
+                "twi": "Sɛn na aburoo a ɛwɔ ahoɔden te?",
+                "type": "diagnosis"
+              },
+              "answer": {
+                "en": [
+                  "A healthy maize plant has vibrant green leaves that are not discolored or drooping. The stalk is firm and upright, and there are no signs of holes, spots, or other damage from pests or diseases. The plant should be growing strong and evenly.",
+                  "A healthy plant is also free of insect infestations and shows no signs of fungal growth or unusual wilt."
+                ],
+                "twi": [
+                  "Aburoo a ɛwɔ ahoɔden wɔ ahaban a ɛyɛ ahabanmono a ɛyɛ fɛ a ɛntrɛntrɛmu anaa ɛnhwie gu. Nkorabata no yɛ den na ɛsɔre, na nneɛma a ɛyɛ nwonwa, nneɛma a ɛyɛ nwonwa, anaa awerɛhosɛm biara nni hɔ a efi mmoa anaa nyarewa mu. Aba no yɛ den, na ɛyɛ fitaa anaa ɛyɛ ahabanmono, na nsu a ɛyɛ nwonwa anaa nsu a ɛnteɛ nni ho."
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "Cassava": {
+      "diseases": [
+        {
+          "name_en": "bacterial blight",
+          "qa_pairs": [
+            {
+              "question": {
+                "en": "What is wrong with this plant?",
+                "twi": "Asukɔtweaa bɛn na ɛwɔ bankye yi ho?",
+                "type": "diagnosis"
+              },
+              "answer": {
+                "en": [
+                  "Your cassava plant is suffering from bacterial blight.",
+                  "Look for angular, water-soaked spots on leaves that turn brown or dark green and often merge, leading to large blighted areas. You may also see wilting of leaves, particularly at the tips, and black streaks on stems and petioles. In severe cases, dieback of shoots and sticky bacterial ooze on stems can occur."
+                ],
+                "twi": [
+                  "Wo bankye dua no yare Bankye Nkorabiri Yareɛ."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name_en": "brown spot",
+          "qa_pairs": [
+            {
+              "question": {
+                "en": "What is wrong with this plant?",
+                "twi": "Asukɔtweaa bɛn na ɛwɔ bankye yi ho?",
+                "type": "diagnosis"
+              },
+              "answer": {
+                "en": [
+                  "Your cassava plant has brown spot disease.",
+                  "You'll typically see distinct, circular brown spots on the leaves, usually with a dark border and sometimes a yellow halo. These spots are often small, but can become more numerous and sometimes merge, leading to premature leaf drop."
+                ],
+                "twi": [
+                  "Wo bankye dua no yare Ahohuru Apɔw yareɛ."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name_en": "green mite",
+          "qa_pairs": [
+            {
+              "question": {
+                "en": "What is wrong with this plant?",
+                "twi": "Asukɔtweaa bɛn na ɛwɔ bankye yi ho?",
+                "type": "diagnosis"
+              },
+              "answer": {
+                "en": [
+                  "Your cassava plant is infested with green mites.",
+                  "Look for a mosaic-like pattern of tiny yellow spots or blotches on the upper surface of older leaves. The lower surface may appear silvery or brownish. In severe cases, leaves may become distorted, curled, and smaller, and plant growth can be stunted. You might also see fine webbing on the undersides of leaves or tiny green specs (the mites themselves) if you look closely."
+                ],
+                "twi": [
+                  "Mmowankani a ɛyɛ ahaban mono no abu wo bankye dua no so."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name_en": "mosaic",
+          "qa_pairs": [
+            {
+              "question": {
+                "en": "What is wrong with this plant?",
+                "twi": "Asukɔtweaa bɛn na ɛwɔ bankye yi ho?",
+                "type": "diagnosis"
+              },
+              "answer": {
+                "en": [
+                  "Your cassava plant is infected with cassava mosaic disease (CMD).",
+                  "You'll see distinct mosaic patterns on the leaves, which are typically yellow or pale green patches alternating with normal green areas. The leaves may also be distorted, curled, twisted, or reduced in size. Symptoms are usually more pronounced on younger leaves."
+                ],
+                "twi": [
+                  "Wo bankye dua no anya bankye mosaic yareɛ (CMD)."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name_en": "healthy",
+          "qa_pairs": [
+            {
+              "question": {
+                "en": "What does a healthy cassava plant look like?",
+                "twi": "Sɛn na bankye a ɛwɔ ahoɔden te?",
+                "type": "diagnosis"
+              },
+              "answer": {
+                "en": [
+                  "A healthy cassava plant has a strong, woody stem and full, green leaves with a healthy shape. The leaves are not discolored, curled, or covered in spots. New shoots are vibrant and growing steadily. The plant should look robust and well-established without any signs of stress, pests, or disease.",
+                  "The roots of a healthy plant are firm and show no signs of rot, mold, or insect damage."
+                ],
+                "twi": [
+                  "Bankye a ɛwɔ ahoɔden wɔ dua a emu yɛ den a ɛyɛ nsu na ɛwɔ ahaban a ɛyɛ ahabanmono a ɛyɛ hyew a ɛnkyinkyin. Nkorabata no yɛ den, na ahaban no nni nkwanta anaa nsensanee."
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "Cashew": {
+      "diseases": [
+        {
+          "name_en": "anthracnose",
+          "qa_pairs": [
+            {
+              "question": {
+                "en": "What is wrong with this plant?",
+                "twi": "Asukɔtweaa bɛn na ɛwɔ akatɛw yi ho?",
+                "type": "diagnosis"
+              },
+              "answer": {
+                "en": [
+                  "Your cashew plant is suffering from **anthracnose**.",
+                  "Look for dark, sunken spots on leaves, flowers, and young shoots. These spots can expand and cause blight, leading to dieback of twigs and flower clusters. On fruits (cashew apples), you might see black lesions and rotting. Immature nuts may also develop black spots and shrivel."
+                ],
+                "twi": [
+                  "Wo akatɛw dua no yare **anthracnose**."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name_en": "gumosis",
+          "qa_pairs": [
+            {
+              "question": {
+                "en": "What is wrong with this plant?",
+                "twi": "Asukɔtweaa bɛn na ɛwɔ akatɛw yi ho?",
+                "type": "diagnosis"
+              },
+              "answer": {
+                "en": [
+                  "Your cashew plant is showing signs of **gummosis**.",
+                  "You'll observe the oozing of sticky, amber-colored gum from cracks or lesions on the bark of stems and branches. The affected bark may also appear discolored and sunken, and in severe cases, branches can die back."
+                ],
+                "twi": [
+                  "Wo akatɛw dua no rekyerɛ **gummosis** ho nsɛnkyerɛnne."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name_en": "leaf miner",
+          "qa_pairs": [
+            {
+              "question": {
+                "en": "What is wrong with this plant?",
+                "twi": "Asukɔtweaa bɛn na ɛwɔ akatɛw yi ho?",
+                "type": "diagnosis"
+              },
+              "answer": {
+                "en": [
+                  "Your cashew plant is being damaged by **leaf miners**.",
+                  "You will see winding, snake-like tunnels or blotches on the leaves. These are caused by the larvae of the leaf miner insect as they feed on the tissue between the upper and lower layers of the leaf. Severe infestations can cause the leaves to curl, dry up, and fall off."
+                ],
+                "twi": [
+                  "W'akatɛw dua no anya **ahaban mu akokɔsradeɛ**."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name_en": "red rust",
+          "qa_pairs": [
+            {
+              "question": {
+                "en": "What is wrong with this plant?",
+                "twi": "Asukɔtweaa bɛn na ɛwɔ akatɛw yi ho?",
+                "type": "diagnosis"
+              },
+              "answer": {
+                "en": [
+                  "Your cashew plant is infected with **red rust**.",
+                  "Look for circular, slightly raised, reddish-brown to orange spots (pustules) on the leaves and sometimes on young shoots and fruits. These spots are typically felt easily and can cause premature leaf drop if severe."
+                ],
+                "twi": [
+                  "Wo akatɛw dua no anya **kɔkɔɔ nsuo yareɛ**."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name_en": "healthy",
+          "qa_pairs": [
+            {
+              "question": {
+                "en": "What does a healthy cashew plant look like?",
+                "twi": "Sɛn na akatɛw a ɛwɔ ahoɔden te?",
+                "type": "diagnosis"
+              },
+              "answer": {
+                "en": [
+                  "A healthy cashew tree has a robust, well-formed canopy with glossy, dark green leaves. The branches and trunk are free of any cracks or oozing sap. New growth is vigorous, and the tree produces a good number of healthy flowers and fruits that are firm and evenly colored. There are no visible spots, lesions, or insect damage on the leaves, nuts, or apples."
+                ],
+                "twi": [
+                  "Akatɛw a ɛwɔ ahoɔden wɔ ahaban a ɛyɛ fɛ a ɛyɛ ahabanmono a ɛyɛ ahabanmono na ɛyɛ ahaban a ɛyɛ ahabanmono. Ne nkorabata ne ne ne ne nnuaba no mu nni ahoɔden anaa ɛnyɛ basaa, na nnua no nnu ne ho. Nnua no yɛ den, na nnuaba no yɛ fitaa anaa ɛyɛ ahabanmono."
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "Tomato": {
+      "diseases": [
+        {
+          "name_en": "leaf blight",
+          "qa_pairs": [
+            {
+              "question": {
+                "en": "What is wrong with this plant?",
+                "twi": "Asukɔtweaa bɛn na ɛwɔ atoo yi ho?",
+                "type": "diagnosis"
+              },
+              "answer": {
+                "en": [
+                  "Your tomato plant is suffering from **leaf blight**.",
+                  "You'll typically see large, irregular, dark brown or black lesions on the leaves, which often start at the leaf margins and spread rapidly. These lesions may have concentric rings and can lead to rapid defoliation and stem blight. Early blight often affects older leaves first, while late blight can affect all parts of the plant, including stems and fruits."
+                ],
+                "twi": [
+                  "Wo atoo dua no yare **ahaban mu ɔyareɛ**."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name_en": "leaf curl",
+          "qa_pairs": [
+            {
+              "question": {
+                "en": "What is wrong with this plant?",
+                "twi": "Asukɔtweaa bɛn na ɛwɔ atoo yi ho?",
+                "type": "diagnosis"
+              },
+              "answer": {
+                "en": [
+                  "Your tomato plant is showing symptoms of **leaf curl**.",
+                  "The most noticeable symptom is the curling, crinkling, or rolling of leaves, often upwards. Leaves may also become thickened, brittle, and yellowish or purplish. Plant growth can be stunted, and fruit set may be reduced. This is often caused by viral infections transmitted by insects like whiteflies, or sometimes by environmental stress."
+                ],
+                "twi": [
+                  "Wo atoo dua no rekyerɛ **ahaban a ɛyɛ basaa** ho nsɛnkyerɛnne."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name_en": "septoria leaf spot",
+          "qa_pairs": [
+            {
+              "question": {
+                "en": "What is wrong with this plant?",
+                "twi": "Asukɔtweaa bɛn na ɛwɔ atoo yi ho?",
+                "type": "diagnosis"
+              },
+              "answer": {
+                "en": [
+                  "Your tomato plant has **Septoria leaf spot**.",
+                  "Look for numerous small, circular spots on the leaves, usually starting on older, lower leaves. These spots are typically dark brown at the edges with a tan or gray center, and often have tiny black dots (fruiting bodies of the fungus) in the middle. Severely infected leaves will turn yellow and fall off."
+                ],
+                "twi": [
+                  "Wo atoo dua no wɔ **Septoria nhaban apɔw**."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name_en": "verticulium wilt",
+          "qa_pairs": [
+            {
+              "question": {
+                "en": "What is wrong with this plant?",
+                "twi": "Asukɔtweaa bɛn na ɛwɔ atoo yi ho?",
+                "type": "diagnosis"
+              },
+              "answer": {
+                "en": [
+                  "Your tomato plant is likely suffering from **Verticillium wilt**.",
+                  "You'll typically see wilting and yellowing of the lower leaves, often on only one side of the plant or one side of a branch. The yellowing may progress to browning, and affected leaves will eventually die and fall off. If you cut the stem, you might see discolored vascular tissue, which appears as a light brown ring inside the stem."
+                ],
+                "twi": [
+                  "Wo atoo dua no betumi aba sɛ **Verticillium wilt** aka no."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name_en": "healthy",
+          "qa_pairs": [
+            {
+              "question": {
+                "en": "What does a healthy tomato plant look like?",
+                "twi": "Sɛn na atoo a ɛwɔ ahoɔden te?",
+                "type": "diagnosis"
+              },
+              "answer": {
+                "en": [
+                  "A healthy tomato plant is full of life and has strong, upright stems. Its leaves are a vibrant, uniform green color and aren't curled, spotted, or yellowing. The plant should be growing steadily, with new flowers and firm, blemish-free tomatoes. There are no signs of pests or other diseases. The fruits are firm and free of any spots or uneven coloring."
+                ],
+                "twi": [
+                  "Atoo a ɛwɔ ahoɔden wɔ ahoɔden na ɛwɔ nkorabata a ɛyɛ den, na ne ahaban yɛ ahabanmono a ɛyɛ fɛ a enni ntanta anaa nsensanee. Nnuaba no yɛ den, na enni nkwanta anaa nsensanee biara."
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
